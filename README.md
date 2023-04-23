@@ -1,3 +1,5 @@
+
+
 ### :hammer_and_wrench: Meine Skills:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -13,3 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+## Hey, I'm Phoenix  👋
+- I'm a Python Developer
+- I program with [Pycord](https://github.com/Pycord-Development/pycord)
+
+##### VOID Community Server:
+[![]![VOID Discord](https://img.shields.io/discord/1034903696271753266?color=purple&label=VOID)
+
+### Stats
+[![](https://github-readme-stats.vercel.app/api?username=PhoenixDxv&theme=dracula&count_private=true&show_icons=true&hide=stars)](https://PhoenixDxv.github.io)
