@@ -20,7 +20,7 @@
 - I program with [Pycord](https://github.com/Pycord-Development/pycord)
 
 ##### VOID Community Server:
-[!][VOID Discord](https://img.shields.io/discord/1034903696271753266?color=purple&label=VOID)
+![VOID](https://img.shields.io/discord/1034903696271753266?color=purple&label=VOID)
 
 ### Stats
 [![](https://github-readme-stats.vercel.app/api?username=PhoenixDxv&theme=dracula&count_private=true&show_icons=true&hide=stars)](https://PhoenixDxv.github.io)
